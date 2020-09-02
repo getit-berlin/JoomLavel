@@ -1,0 +1,19 @@
+Backup Joomla configuration
+cp configuration.php configuration.JoomlaOriginal
+
+Joomla configuration content could be change from
+
+configuration.JoomlaOriginal
+
+to 
+
+configuration.JoomLavel
+
+
+configuration.JoomLavelDependent adds a contructor and imports some .env settings automaticaly
+Joomla becomes more Laravel dependent
+
+
+
+
+
