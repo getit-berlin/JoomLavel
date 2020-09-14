@@ -15,7 +15,7 @@ Joomlavel-documentation contains help files, descriptions, use cases and the doc
 <h3>Joomlavel-api</h3>
 Joomlavel-api is a Laravel API, with joomla typical models. The API is created with a RAD approach to enable fast deployment.
 
-<h3>Joomlavel-component </h3>
+<h3>Joomlavel-connect </h3>
 Joomlavel-component is a joomla component with can be easyliy installed to a Joomla Instance. 
 The component allows to access easyly the remote Joomlavel-api laravel api and OpenAPI. The component is also created automaticaly with a RAD tool to enable fast deployment.
 
